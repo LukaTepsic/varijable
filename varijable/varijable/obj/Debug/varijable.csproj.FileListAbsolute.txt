@@ -1,0 +1,2 @@
+C:\Users\Tepob\source\repos\varijable\varijable\obj\Debug\varijable.csproj.AssemblyReference.cache
+C:\Users\Tepob\source\repos\varijable\varijable\obj\Debug\varijable.csproj.CoreCompileInputs.cache
